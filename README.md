@@ -1,5 +1,5 @@
 # CoinTracker
-powered by coingecko.com, track crypto fluctuations in your favourite Exchanges, set Price Alerts ( now in Development Phase)
+powered by coingecko.com, track crypto fluctuations in your favourite Exchanges, set Price Alerts (MVP)
 # Download App (unzip required)
 [High On Charts.zip](https://github.com/Praveen-Eth/CoinTracker/files/10891810/High.On.Charts.zip)
 
